@@ -1,0 +1,69 @@
+{
+    // Configurações do editor
+    "editor.fontSize": 16,
+    "editor.lineHeight": 30,
+    "editor.tabSize": 2,
+    "editor.fontFamily": "Cascadia Code",
+    "editor.fontLigatures": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.minimap.enabled": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.wordWrap": "on",
+    "editor.linkedEditing": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modifications",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    },
+    "editor.formatOnPaste": true,
+  
+    // Configurações da interface do usuário
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.tree.indent": 15,
+    "workbench.editor.enablePreview": false,
+    "workbench.colorCustomizations": {},
+  
+    // Configurações do explorador
+    "explorer.compactFolders": false,
+    "explorer.confirmDelete": false,
+  
+    // Configurações do Live Server
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+  
+    // Configurações do Git
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+  
+    // Configurações diversas
+    "haskell.manageHLS": "GHCup",
+    "diffEditor.wordWrap": "on",
+    "vsicons.dontShowNewVersionMessage": true,
+    "files.autoSave": "afterDelay",
+    "html.format.enable": false,
+    "update.showReleaseNotes": false,
+    "tabnine.experimentalAutoImports": true,
+    "redhat.telemetry.enabled": true,
+    "github.copilot.editor.enableAutoCompletions": true,
+  
+    // Configurações do terminal integrado
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+    "terminal.integrated.profiles.windows": {
+      "Git Bash": {
+        "source": "Git Bash"
+      }
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+  
+    // Configurações do Prettier
+    "prettier.enable": true,
+    "prettier.singleQuote": false,
+    "prettier.tabWidth": 2,
+    "prettier.semi": false,
+    "workbench.colorTheme": "Omni"
+  }
+  
